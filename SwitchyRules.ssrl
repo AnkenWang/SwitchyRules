@@ -5,7 +5,7 @@
 #BEGIN
 
 [wildcard]
-*://*.google.com.hk/*
+*://*.google.*/*
 *://*.dropbox.com/*
 *://*.gmail.com/*
 *://*.googleusercontent.com/*
