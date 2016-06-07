@@ -5,6 +5,7 @@
 #BEGIN
 
 [wildcard]
+*://*code.google.com/*
 *://*.google.com.hk/*
 *://*.dropbox.com/*
 *://*.gmail.com/*
